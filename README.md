@@ -2,6 +2,9 @@
 
 I'm Eric Han 👏 👏 👏
 
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
+
 ## Languages and Tools:
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -18,6 +21,4 @@ I'm Eric Han 👏 👏 👏
 
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdaso-o)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdaso-o)](https://github.com/anuraghazra/github-readme-stats)             
